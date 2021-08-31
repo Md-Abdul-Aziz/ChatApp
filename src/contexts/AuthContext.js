@@ -10,7 +10,6 @@ export function useAuth() { return useContext(AuthContext) }
 
 //export const AuthProvider = ({ children }) => { .........}
 // or
-//
 
 export function AuthProvider({ children }) {
 
